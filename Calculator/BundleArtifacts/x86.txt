@@ -1,0 +1,2 @@
+MainPackage=C:\Users\g0035\Desktop\new Project location\Calculator\Calculator\bin\x86\Release\Calculator_1.1.2.0_x86.appx
+SymbolPackage=C:\Users\g0035\Desktop\Little Calculator\Calculator_1.1.2.0_Test\Calculator_1.1.2.0_x86.appxsym
