@@ -6,7 +6,8 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d" Height="299.2" Width="360">
-
+     
+     
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="398">
  <TextBlock HorizontalAlignment="Left" Margin="120,50,0,0" TextWrapping="Wrap" Text="Simple Calculator" VerticalAlignment="Top"/>
         <TextBox 
